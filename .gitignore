@@ -1,0 +1,25 @@
+# バイトコードファイル
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+venv/
+.venv/
+env/
+.env/
+
+# エディタ特有設定
+.vscode/
+.idea/
+
+# OS特有ファイル
+.DS_Store
+
+# ログとデータベースファイル
+*.log
+*.sqlite
+
+# 環境変数
+.env
+.flaskenv
+secret.json
